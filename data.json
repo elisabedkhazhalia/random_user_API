@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mademoiselle",
+                "first": "Marcelle",
+                "last": "Durand"
+            },
+            "location": {
+                "street": {
+                    "number": 8516,
+                    "name": "Avenue de la Lib\u00e9ration"
+                },
+                "city": "Aigle",
+                "state": "Solothurn",
+                "country": "Switzerland",
+                "postcode": 3245,
+                "coordinates": {
+                    "latitude": "-62.1659",
+                    "longitude": "30.5065"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "marcelle.durand@example.com",
+            "login": {
+                "uuid": "9458d00a-7a88-4766-a141-382fb136d5cc",
+                "username": "beautifuldog560",
+                "password": "connie",
+                "salt": "OIICxy4f",
+                "md5": "0df9a46c37a4bb398d8abc6eba2b253f",
+                "sha1": "51718f66147e7d7083cf5e383ba499d9939e6d26",
+                "sha256": "35833b78ec7ebf7560a803bc399f25fe95cbf929312629078a47316c6bf340c8"
+            },
+            "dob": {
+                "date": "1954-11-08T06:22:46.845Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2021-08-15T01:59:42.172Z",
+                "age": 1
+            },
+            "phone": "077 837 73 55",
+            "cell": "077 889 50 33",
+            "id": {
+                "name": "AVS",
+                "value": "756.2735.0005.40"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/67.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+            },
+            "nat": "CH"
+        }
+    ],
+    "info": {
+        "seed": "d30b4568f4cd6b48",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
